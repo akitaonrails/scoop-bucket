@@ -1,12 +1,12 @@
 {
-  "version": "3.4.0",
+  "version": "3.4.1",
   "description": "Long-term, cross-session memory for AI coding agents over MCP and lifecycle hooks",
   "homepage": "https://aimemory.sh",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/akitaonrails/ai-memory/releases/download/v3.4.0/ai-memory-windows-x86_64.zip",
-      "hash": "800011d07e7af08a053945887a67811ca45f743f4fdc5a5583fad5fdb86d0565"
+      "url": "https://github.com/akitaonrails/ai-memory/releases/download/v3.4.1/ai-memory-windows-x86_64.zip",
+      "hash": "0b8006363d0d64ef149e565832f61a4b192f9cdc774785582ec55dca1ccc2972"
     }
   },
   "bin": "ai-memory.exe",
